@@ -57,3 +57,11 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+.date {
+  background-color: #000000;
+  color: whitesmoke;
+  border-radius: 8px;
+  padding: 5px;
+  margin: 0 275px;
+}
