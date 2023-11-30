@@ -10,6 +10,7 @@ Once the page renders the user should be presented with the title of the page, t
 ## My page URL: https://joey2522.github.io/Challenge-5-Daily-Planner/
 To visit the page follow the URL above. Below you will see a screenshot of what you should expect to see when visiting the page.
 
+<img width="1718" alt="Screenshot 2023-11-30 at 9 04 56 AM" src="https://github.com/Joey2522/Challenge-5-Daily-Planner/assets/148152563/76032575-5936-414f-a7b9-6a9909b8d4b3">
 
 
 ## Authors
